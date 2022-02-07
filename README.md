@@ -1,2 +1,3 @@
 # Machine Learning Codes
-Códigos en diversos lenguajes de programación con ejemplos de utilización de Machine y Deep Learning
+Este repositorio incluye códigos usados para el desarrollo de distintos ejemplos de Machine Learning y Deep Learning.
+Los códigos ESPCN
